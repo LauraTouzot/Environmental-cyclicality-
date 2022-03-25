@@ -1,4 +1,4 @@
-# Environmental-cyclicality-
+# Environmental-cyclicality
 
 Materials for conducting both long and short-term simulations that are presented in the paper entitled "Amplified cyclicality in mast seeding dynamics positively influences the dynamics of a seed consumer species".
 
